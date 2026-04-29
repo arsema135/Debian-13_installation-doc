@@ -1,6 +1,5 @@
 # Debian-13_installation-doc
 Debian 13 installation documentation
-# Debian 13 Installation Guide
 
 ## Introduction
 This document shows the steps followed to install Debian 13 on Oracle VirtualBox. It explains how the system was set up and what was done during the installation process.
